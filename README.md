@@ -1,4 +1,4 @@
-# Meat-type-prediction
+# Meat-Type-Prediction
 • Objective: In this project, developed a classification model for different meat type using various deep learning techniques 
 and evaluated the fittest model for given data. 
 • Outcome: The transfer learning model using ResNet50 outperformed the custom CNN, demonstrating better 
